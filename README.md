@@ -1,7 +1,13 @@
-# Hi, I'm Irwansyah ✨
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/xzvjgFw/castorice-banner-github.png" alt="Castorice Banner" width="100%" />
+</p>
 
-🚀 **Full-Stack Developer** passionate about building modern, scalable, and aesthetic apps.  
-Skilled in **React Native, Next.js, Laravel, Tailwind CSS**, and always exploring new technologies.
+# Hi, I'm Irwansyah ✨  
+
+🚀 **Full-Stack Developer** passionate about building modern, scalable, and aesthetic applications.  
+Skilled in **React Native, Next.js, Laravel, Tailwind CSS**, and always exploring new technologies.  
+💫 Inspired by creativity, design, and a little touch of Honkai: Star Rail — Castorice vibes.  
 
 ---
 
@@ -16,8 +22,10 @@ Skilled in **React Native, Next.js, Laravel, Tailwind CSS**, and always explorin
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebutsajagarpu&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebutsajagarpu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebutsajagarpu&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebutsajagarpu&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
@@ -29,9 +37,24 @@ Skilled in **React Native, Next.js, Laravel, Tailwind CSS**, and always explorin
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/irwansyahandikapurnama)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](TBD)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:irwansyahap@gmail.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/irwansyahandikapurnama">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" />
+  </a>
+  <a href="mailto:irwansyahap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/fE2NmbvKVEkAAAAC/honkai-star-rail.gif" width="80%" alt="Castorice Vibes GIF" />
+</p>
+
+---
+
 ✨ *“Code, Design, and Build with Passion.”*  
