@@ -1,7 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/xzvjgFw/castorice-banner-github.png" alt="Castorice Banner" width="100%" />
+  <div style="background-color:#0a0a1a; padding:15px; border-radius:15px; display:inline-block;">
+    <img src="https://media.tenor.com/fE2NmbvKVEkAAAAC/honkai-star-rail.gif" 
+         alt="Castorice Vibes" 
+         width="70%" 
+         style="border: 3px solid #6a5acd; border-radius:12px;" />
+  </div>
 </p>
+
 
 # Hi, I'm Irwansyah ✨  
 
