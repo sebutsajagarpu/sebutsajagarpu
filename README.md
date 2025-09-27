@@ -1,10 +1,11 @@
 <!-- Banner -->
 <p align="center">
   <div style="background-color:#0a0a1a; padding:15px; border-radius:15px; display:inline-block;">
-    <img src="https://media.tenor.com/fE2NmbvKVEkAAAAC/honkai-star-rail.gif" 
-         alt="Castorice Vibes" 
-         width="70%" 
-         style="border: 3px solid #6a5acd; border-radius:12px;" />
+    <img src="hanabi.jpeg" 
+     alt="hanabi Banner" 
+     width="70%" 
+     style="border: 3px solid #6a5acd; border-radius:12px;" />
+
   </div>
 </p>
 
@@ -12,8 +13,7 @@
 # Hi, I'm Irwansyah ✨  
 
 🚀 **Full-Stack Developer** passionate about building modern, scalable, and aesthetic applications.  
-Skilled in **React Native, Next.js, Laravel, Tailwind CSS**, and always exploring new technologies.  
-💫 Inspired by creativity, design, and a little touch of Honkai: Star Rail — Castorice vibes.  
+Skilled in **React Native, Next.js, Laravel, Tailwind CSS**, and always exploring new technologies.    
 
 ---
 
