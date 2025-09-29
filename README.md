@@ -1,13 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <div style="background-color:#0a0a1a; padding:15px; border-radius:15px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/sebutsajagarpu/sebutsajagarpu/main/ini-bg.gif"
-     alt="Banner" 
-     width="100%" 
-     style="border: 3px solid #6a5acd; border-radius:12px;" />
-
-  </div>
+  <img src="https://raw.githubusercontent.com/sebutsajagarpu/sebutsajagarpu/main/ini-bg.gif" width="100%" />
 </p>
+
 
 
 # Hi, I'm Irwansyah ✨  
