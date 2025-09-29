@@ -1,7 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sebutsajagarpu/sebutsajagarpu/main/ini-bg.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/sebutsajagarpu/sebutsajagarpu/main/ini-bg.gif" 
+       alt="Banner" 
+       width="100%" 
+       style="border: 3px solid #6a5acd; border-radius:12px;" />
 </p>
+
 
 
 
